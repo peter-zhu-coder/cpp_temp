@@ -41,6 +41,7 @@ int main() {
 		my_set = nullptr;
 	}
 
+
 	std::cout << my_set << std::endl;
     // system("pause");
     return 0;
