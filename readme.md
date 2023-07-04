@@ -1,2 +1,3 @@
+# head
 
-here is a repository story tempory cpp file;
+here is a repository story temporary cpp file;

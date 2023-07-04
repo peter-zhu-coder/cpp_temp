@@ -5,9 +5,9 @@
 #include <stdio.h>
 #include <math.h>
 #include <unordered_set>
-// #include <netdb.h>
-// #include <sys/socket.h>
 
+// familiar with unordered_set
+// familiar with comment;
 
 /*
 ? queries msg

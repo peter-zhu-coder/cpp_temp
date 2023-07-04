@@ -3,7 +3,7 @@
 #include <math.h>
 #include <vector>
 
-// Get the bits in sequence
+// Get the data bit-by-bit;
 int main() {
     int a = 8;
     int tmp;

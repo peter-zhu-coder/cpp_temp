@@ -7,6 +7,7 @@
 #include <unordered_set>
 #include <vector>
 
+// familiar with try-catch
 int main() {
     int score;
     std::vector<int> data;

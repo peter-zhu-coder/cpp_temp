@@ -5,6 +5,7 @@
 #include <memory.h>
 
 // compare the function of memcmp and memmove
+
 // 1. function memcmp
 // return value: 
 // destination ptr when success;
