@@ -3,11 +3,14 @@
 #include <math.h>
 #include <vector>
 #include <memory.h>
+#include <map>
+#include <unordered_map>
+#include <utility>
 
 int main() {
-    int x = 1;
-    int y = -x;
-    std::cout << y << std::endl;
+    char* s;
+    s = "zhu";
+    std::string s2 = s;
 
     return 0;
 }
