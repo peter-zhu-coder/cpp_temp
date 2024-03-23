@@ -1,0 +1,5 @@
+1. nodiscard加在函数前面：
+加上[[nodiscard]]后，编译器发现 empty() 函数被调用时并没有使用它的返回值，则会报一个诸如warning: ignoring return value of 'bool empty()'的警告。
+
+2. nodiscard加在struct前面：
+除了可以用在函数上，也可以用在类或结构体上，作用是该类或结构体被作为返回值类型时，如果不使用该返回值，则编译器警告。
