@@ -1,0 +1,3 @@
+(1) auto_ptr, b赋值给a后，通过b无法访问资源；
+(2) unique ptr, 禁止赋值
+(3) shared ptr, 有缺陷：循环引用；

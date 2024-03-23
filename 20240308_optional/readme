@@ -1,0 +1,12 @@
+c++17 新特性 optional
+
+template< class T >
+class optional; (since C++17)
+
+optional 是一个模板类
+to represent a value that may or may not be present.
+
+成员函数包括：
+has_value();
+value();
+value_or();
